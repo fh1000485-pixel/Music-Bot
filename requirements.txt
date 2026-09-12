@@ -1,3 +1,5 @@
-python-telegram-bot
+pyrogram>=2.0
+tgcrypto
+pytgcalls
 yt-dlp
 python-dotenv
